@@ -18,7 +18,6 @@ UPRIGHT = 'upright'
 MOVESPEED = 4
 
 dirty = 80
-
 WHITE = (255, 255, 255)
 RED = (255 - dirty, dirty, dirty)
 GREEN = (dirty, 255 - dirty, dirty)
